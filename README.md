@@ -57,6 +57,11 @@ Top Product & Customer
 
 ---
 
+## 🚀 Live App
+👉 (https://sales-insights-dl.streamlit.app/)
+
+---
+
 ## 🌐 Streamlit Version
 
 ### Run locally 
@@ -131,4 +136,5 @@ streamlit run main_app.py
 ---
 
 📸 Output Preview:
+
 
