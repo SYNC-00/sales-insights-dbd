@@ -114,12 +114,12 @@ cd sales-insights-dashboard
 2. Install dependencies:
 pip install -r requirements.txt
 
-3. Run either version: 
+3. Run either version:
+```bash
 python CLI_main.py
-
        or
-
 streamlit run main_app.py
+```
 
 
 ---
@@ -137,6 +137,7 @@ streamlit run main_app.py
 ---
 
 📸 Output Preview:
+
 
 
 
