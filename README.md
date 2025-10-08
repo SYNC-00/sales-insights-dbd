@@ -29,10 +29,11 @@ Built using **Pandas, Matplotlib, Seaborn, and Streamlit**, this project showcas
 
 ### 🖥️ CLI Version
 
-#### Run Locally
+## Run Locally
 ```bash
 python CLI_main.py
 
+```
 ---
 
 ### Key Highlights
@@ -136,5 +137,6 @@ streamlit run main_app.py
 ---
 
 📸 Output Preview:
+
 
 
