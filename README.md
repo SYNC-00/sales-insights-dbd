@@ -138,7 +138,13 @@ streamlit run main_app.py
 
 📸 Output Preview:
 
+UI
+<img width="1920" height="1022" alt="UI" src="https://github.com/user-attachments/assets/1c8c9093-a850-4e06-8439-f6deff50f264" />
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 
+Sample csv 
+<img width="1920" height="1024" alt="Demo" src="https://github.com/user-attachments/assets/cea1f418-5e4b-4e6b-8511-239165046163" />
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
